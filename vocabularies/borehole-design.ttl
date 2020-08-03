@@ -18,7 +18,7 @@
         bhd:inclineddown,
         bhd:lateral,
         bhd:vertical ;
-    skos:prefLabel "Borehole Design"@en .
+    skos:prefLabel "Borehole Design - David"@en .
 
 <http://linked.data.gov.au/org/gsq> a sdo:Organization ;
     sdo:name "Geological Survey of Queensland" ;
